@@ -1,2 +1,2 @@
 # hello-friend
-Hello 
+Hello, my name is Devjon and this is my first Github repo :)
